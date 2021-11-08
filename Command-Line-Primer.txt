@@ -1,0 +1,10 @@
+Q1: If I had to say what the command line is, I would have to say that the command line is a program in which we are able to talk to the brain/cpu of the computer itself. And telling the computer directly to make changes to file storage in terms of how it is stored and where it can be stored all with the use of simple commands that the computer will recognise.
+
+Q2: Did I stick to the timebox guidelines? Yes. Most of the time I used for Exploring and seeing it in action was spent watching and following the Sprint 1 workshop that was avalible in the curriculum-Sprint 1 folder on the student handbook. So most of the skills that are tought to us I had just finished learning prior. But I still followed the task and learned a new command other than ls to know what folder I was working in. And that was the command $ pwd.
+
+Q3: The 5 commands I now know of are ls, (which tells you if there are any folders or files in the current directory) cd, (which is to change the current directory to another, or to move up or down by using cd . or cd ..) cd workspace,( which makes the specified the current directory in which new files and folders would be placed) pwd, (which shows the current path you are working in like for example $ pwd /c/Users/james/workspace/Sprint-1) and finally the last command is ls -al (which shows any hidden files or folders that would then come out as for example "drwxr-xr-x 1 james 197610 0 Nov 9 10:38 ./". 
+
+Q4: I would say that the unexpected thing I learned was command pwd, which at the time I was only using ls to see where I was working in. But now I see that pwd helps give me a clearer understanding of where I am working.     
+
+
+
