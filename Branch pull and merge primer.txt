@@ -1,0 +1,5 @@
+What is a main? Well if I am understanding it correctly, a main is the primary area where a project is made. Also a main is also considered the main codebase as when the repo is created it needs a foundation and core code for it to be created and function so it can store files or projects. 
+
+Why would you create a branch? Well one big reason for the creation of a branch is that, it allows users to work on other projects that may be considered sub projects (so not the main project-but still related) without changing teh main codebase. But this doesn't stop them from pushing the other branches updates to the main area.
+
+Do the concepts introduced feel intuitive or difficult to understand? When being introduced to it yes. But after reading a bit about the need for something like a branch, it became a much easier concept to understand.
